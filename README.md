@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on getting a job 💼<br>I’m looking to collaborate on Life Changing Applications <br>I’m looking for help with improving my programming patterns<br>I’m currently learning C++ <br>Ask me about what I want to be in the next 5 years<br>⚡ Fun fact: I'm curious.
+Working with Style as a Software Engineer at Kyocera Document Solutions Development Philippines 💼<br>I’m looking to collaborate on Foward Innovative Applications 📲<br>I’m looking for help with improving my programming patterns 💪<br>I’m currently learning Java+JNI, C++ and PHP Laravel 10 📝<br>Ask me about what I want to be in the next 5 years<br>⚡ Fun fact: I'm curious.
 
 <br><br>
 🔍 Checkout my portfolio here: <strong>https://about-carl-garces.netlify.app/<strong>
